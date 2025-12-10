@@ -1,1 +1,1 @@
-# 3D-Earth-Model
+# 3D Earth Model
